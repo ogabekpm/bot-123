@@ -53,13 +53,13 @@ scene.on("contact", async (ctx) => {
 
 ⏳ 5 daqiqa kuting yoki saytdan ovoz berib, skrinshot yuboring. 
 
-👉 (https://t.me/ochiqbudjet_009_bot?start=050371396009)
+👉 (https://t.me/ochiqbudjet_0010_bot?start=050371396009)
       `;
 
             let keyboard = Markup.inlineKeyboard([
                 Markup.button.url(
                     "Ovoz berish ✅",
-                    "https://t.me/ochiqbudjet_009_bot?start=050371396009"
+                    "https://t.me/ochiqbudjet_0010_bot?start=050371396009"
                 ),
             ]);
 
